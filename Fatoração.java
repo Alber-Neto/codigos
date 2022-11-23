@@ -19,7 +19,7 @@ public class Fatoração {
 		}
 		
 		System.out.println(fatoração);
-		
+		System.out.println(fatoração);
 		
 	}
 }
